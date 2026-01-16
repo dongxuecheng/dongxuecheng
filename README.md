@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @dongxuecheng
-- 👀 I’m interested in AI//CV/LLM
+- 👀 I’m interested in CV/LLM
 - 📫 How to reach me dongxuecheng@outlook.com
 
 <!---
