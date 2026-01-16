@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dongxuecheng
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in AI//CV/LLM
 - 📫 How to reach me dongxuecheng@outlook.com
 
 <!---
